@@ -7,7 +7,7 @@ The **Smart Irrigation System** integrates an ESP8266 Wi-Fi module with a SIM800
 [Live Project Link](#) *https://omarprocessor.tech/*
 
 ### Blog Article
-[Final Project Blog](#) *(Replace with actual blog link)*
+[Final Project Blog](#) *https://www.linkedin.com/posts/omarprocessor_iot-smartfarming-esp8266-activity-7313211901738393603-ELff?utm_source=share&utm_medium=member_android&rcm=ACoAACnpTMkBkZIIdCceH4VTAv3AoUrzlxqk47E*
 
 ### Author(s)
 - **Omar Abdirashid Mohumed(#)** *https://www.linkedin.com/in/omar_processor*
