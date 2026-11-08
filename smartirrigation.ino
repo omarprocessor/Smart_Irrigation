@@ -4,7 +4,7 @@
 
 // Wi-Fi Access Point credentials
 const char *ssid = "ESP8266_AP";
-const char *password = "12345678";
+const char *password = "" /* set via local flash / secrets, do not commit */;
 
 // Create a web server on port 80
 WiFiServer server(80);
